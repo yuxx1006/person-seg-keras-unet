@@ -4,5 +4,3 @@ tensorflow
 keras==2.2.4
 numpy==1.16.4
 matplotlib==3.1.1
-
-
